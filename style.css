@@ -1,0 +1,28 @@
+.red {
+    background: red;
+    height: 250px;
+    width: 250px;
+}
+
+.red:hover {
+    background: blue;
+}
+
+.google {
+    color: red;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.google:hover {
+    color: yellow;
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.google:visited {
+    color: blue;
+    font-size: x-small;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
